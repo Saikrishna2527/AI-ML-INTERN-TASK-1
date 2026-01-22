@@ -46,7 +46,7 @@ ML READINESS:
 
 Titanic: Binary Classification.
 Students: Multi-target Regression.
-oth: Adequate size (>500 rows)
+Both: Adequate size (>500 rows)
 Preprocessing identified.
 
 
